@@ -1,5 +1,9 @@
 Cold and dry, but everything is my favourite colour.
 The two moons may be a problem for Wolfman.
 But the Mummy will appreciate the lack of humidity.
+<<<<<<< HEAD
 
 Adam and Eve hated each other because Adam was weak and Eve was rebellious.
+=======
+This line added to HooHaaaaaaaaaaaaaaaaHasan's copy
+>>>>>>> 07938ac3a8e784f031a92ffc7d7f66dd6790f082
